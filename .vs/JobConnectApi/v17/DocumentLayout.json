@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JobConnectApi-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\database\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\database\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\services\\claimstransformationprincipals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\services\\claimstransformationprincipals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\services\\userservices\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\services\\userservices\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\mapper\\jobmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\mapper\\jobmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\controllers\\jobseekerendpoints\\jobmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\controllers\\jobseekerendpoints\\jobmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\controllers\\jobseekerendpoints\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\controllers\\jobseekerendpoints\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\controllers\\employerendpoints\\jobmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\controllers\\employerendpoints\\jobmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\controllers\\employerendpoints\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\controllers\\employerendpoints\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\controllers\\employerendpoints\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\controllers\\employerendpoints\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\controllers\\adminendpoints\\adminusermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\controllers\\adminendpoints\\adminusermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\controllers\\adminendpoints\\adminjobmanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\controllers\\adminendpoints\\adminjobmanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\services\\proposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\services\\proposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\services\\userservices\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\services\\userservices\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\services\\errorservice\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\services\\errorservice\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\models\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\models\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\dtos\\jobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\dtos\\jobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\dtos\\employerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\dtos\\employerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\dtos\\chatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\dtos\\chatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\mapper\\jobseekermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\mapper\\jobseekermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\mapper\\employermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\mapper\\employermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\mapper\\chatmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\mapper\\chatmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|d:\\jobconnectapi-master\\jobconnectapi\\jobconnectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7316160-EAAB-4E11-A774-EFD890590A59}|JobConnectApi\\JobConnectApi.csproj|solutionrelative:jobconnectapi\\jobconnectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClaimsTransformationPrincipals.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\ClaimsTransformationPrincipals.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Services\\ClaimsTransformationPrincipals.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\ClaimsTransformationPrincipals.cs",
+              "RelativeToolTip": "JobConnectApi\\Services\\ClaimsTransformationPrincipals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:56:56.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Services\\JobService.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\JobService.cs",
+              "RelativeToolTip": "JobConnectApi\\Services\\JobService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAuwFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:48:48.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Models\\Admin.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Models\\Admin.cs",
+              "RelativeToolTip": "JobConnectApi\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:25:57.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationMiddleware.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Middleware\\AuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Middleware\\AuthenticationMiddleware.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Middleware\\AuthenticationMiddleware.cs",
+              "RelativeToolTip": "JobConnectApi\\Middleware\\AuthenticationMiddleware.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:25:15.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Models\\Message.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Models\\Message.cs",
+              "RelativeToolTip": "JobConnectApi\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:38:27.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Database\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Database\\DatabaseContext.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Database\\DatabaseContext.cs",
+              "RelativeToolTip": "JobConnectApi\\Database\\DatabaseContext.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwE0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:50:26.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Database\\DataRepository.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Database\\DataRepository.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Database\\DataRepository.cs",
+              "RelativeToolTip": "JobConnectApi\\Database\\DataRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:03:34.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Program.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Program.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Program.cs",
+              "RelativeToolTip": "JobConnectApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:02:09.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\UserServices\\UserService.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Services\\UserServices\\UserService.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\UserServices\\UserService.cs",
+              "RelativeToolTip": "JobConnectApi\\Services\\UserServices\\UserService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:33:40.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\UserServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Services\\UserServices\\IUserService.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\UserServices\\IUserService.cs",
+              "RelativeToolTip": "JobConnectApi\\Services\\UserServices\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:00:37.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployerService.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\UserServices\\EmployerService.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Services\\UserServices\\EmployerService.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\UserServices\\EmployerService.cs",
+              "RelativeToolTip": "JobConnectApi\\Services\\UserServices\\EmployerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:16:31.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Services\\ChatService.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\ChatService.cs",
+              "RelativeToolTip": "JobConnectApi\\Services\\ChatService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:16:15.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobMappingProfile.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Mapper\\JobMappingProfile.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Mapper\\JobMappingProfile.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Mapper\\JobMappingProfile.cs",
+              "RelativeToolTip": "JobConnectApi\\Mapper\\JobMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:24:58.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JobConnectApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:55:17.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "JobConnectApi\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:03:31.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobManagementController.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\JobSeekerEndpoints\\JobManagementController.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Controllers\\JobSeekerEndpoints\\JobManagementController.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\JobSeekerEndpoints\\JobManagementController.cs",
+              "RelativeToolTip": "JobConnectApi\\Controllers\\JobSeekerEndpoints\\JobManagementController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAYwGQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:31:34.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\JobSeekerEndpoints\\ChatController.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Controllers\\JobSeekerEndpoints\\ChatController.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\JobSeekerEndpoints\\ChatController.cs",
+              "RelativeToolTip": "JobConnectApi\\Controllers\\JobSeekerEndpoints\\ChatController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:54:33.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobManagementController.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\EmployerEndpoints\\JobManagementController.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Controllers\\EmployerEndpoints\\JobManagementController.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\EmployerEndpoints\\JobManagementController.cs",
+              "RelativeToolTip": "JobConnectApi\\Controllers\\EmployerEndpoints\\JobManagementController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAYwE4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:54:26.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\EmployerEndpoints\\ChatController.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Controllers\\EmployerEndpoints\\ChatController.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\EmployerEndpoints\\ChatController.cs",
+              "RelativeToolTip": "JobConnectApi\\Controllers\\EmployerEndpoints\\ChatController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:54:10.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JobApplicationsController.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\EmployerEndpoints\\JobApplicationsController.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Controllers\\EmployerEndpoints\\JobApplicationsController.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\EmployerEndpoints\\JobApplicationsController.cs",
+              "RelativeToolTip": "JobConnectApi\\Controllers\\EmployerEndpoints\\JobApplicationsController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:54:19.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminUserManagementController.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\AdminEndpoints\\AdminUserManagementController.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Controllers\\AdminEndpoints\\AdminUserManagementController.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\AdminEndpoints\\AdminUserManagementController.cs",
+              "RelativeToolTip": "JobConnectApi\\Controllers\\AdminEndpoints\\AdminUserManagementController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwFIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:54:02.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminJobManagmentController.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\AdminEndpoints\\AdminJobManagmentController.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Controllers\\AdminEndpoints\\AdminJobManagmentController.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Controllers\\AdminEndpoints\\AdminJobManagmentController.cs",
+              "RelativeToolTip": "JobConnectApi\\Controllers\\AdminEndpoints\\AdminJobManagmentController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:33:43.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\UserServices\\AdminService.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Services\\UserServices\\AdminService.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\UserServices\\AdminService.cs",
+              "RelativeToolTip": "JobConnectApi\\Services\\UserServices\\AdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:12:29.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserErrors.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\ErrorService\\UserErrors.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Services\\ErrorService\\UserErrors.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\ErrorService\\UserErrors.cs",
+              "RelativeToolTip": "JobConnectApi\\Services\\ErrorService\\UserErrors.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:54:41.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProposalService.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\ProposalService.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Services\\ProposalService.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Services\\ProposalService.cs",
+              "RelativeToolTip": "JobConnectApi\\Services\\ProposalService.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAcwEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:58:46.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JobRequest.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\DTOs\\JobRequest.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\DTOs\\JobRequest.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\DTOs\\JobRequest.cs",
+              "RelativeToolTip": "JobConnectApi\\DTOs\\JobRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:22:50.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployerDto.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\DTOs\\EmployerDto.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\DTOs\\EmployerDto.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\DTOs\\EmployerDto.cs",
+              "RelativeToolTip": "JobConnectApi\\DTOs\\EmployerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:42:50.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChatResponseDto.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\DTOs\\ChatResponseDto.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\DTOs\\ChatResponseDto.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\DTOs\\ChatResponseDto.cs",
+              "RelativeToolTip": "JobConnectApi\\DTOs\\ChatResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:35:11.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JobStatus.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Models\\JobStatus.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Models\\JobStatus.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Models\\JobStatus.cs",
+              "RelativeToolTip": "JobConnectApi\\Models\\JobStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:53:38.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JobSeekerMappingProfile.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Mapper\\JobSeekerMappingProfile.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Mapper\\JobSeekerMappingProfile.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Mapper\\JobSeekerMappingProfile.cs",
+              "RelativeToolTip": "JobConnectApi\\Mapper\\JobSeekerMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:25:05.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployerMappingProfile.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Mapper\\EmployerMappingProfile.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Mapper\\EmployerMappingProfile.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Mapper\\EmployerMappingProfile.cs",
+              "RelativeToolTip": "JobConnectApi\\Mapper\\EmployerMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:24:51.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ChatMappingProfile.cs",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\Mapper\\ChatMappingProfile.cs",
+              "RelativeDocumentMoniker": "JobConnectApi\\Mapper\\ChatMappingProfile.cs",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\Mapper\\ChatMappingProfile.cs",
+              "RelativeToolTip": "JobConnectApi\\Mapper\\ChatMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:24:24.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JobConnectApi.csproj",
+              "DocumentMoniker": "D:\\JobConnectApi-master\\JobConnectApi\\JobConnectApi.csproj",
+              "RelativeDocumentMoniker": "JobConnectApi\\JobConnectApi.csproj",
+              "ToolTip": "D:\\JobConnectApi-master\\JobConnectApi\\JobConnectApi.csproj",
+              "RelativeToolTip": "JobConnectApi\\JobConnectApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T15:02:04.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
